@@ -1,0 +1,26 @@
+id: P1D4F0DBA
+initial_creation_type: input
+source_metadata:
+  title: Auspiciousness Series
+  language: bo
+  description: 'A selection of texts on the theme of auspiciousness (maṅgalam; bkra
+    shis) including verses of auspiciousness (maṅgalagāthā) and prayers:'
+  volume:
+    ddf5ea8caa7b486caa6b5c3ed3724514:
+      title: A Prayer for Auspiciousness
+      parent: Verses of Auspiciousness
+    2c2bf477a3ee4280918d1271b4afe710:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      parent: Verses of Auspiciousness
+    91b3ba88013d43c0b4e9dadde58159bd:
+      title: Verses of Auspiciousness
+      parent: Verses of Auspiciousness
+    748770f4904c45d29b6f21c042991d24:
+      title: 'Virtuous Adornment for All the World: Verses to Bring Auspiciousness
+        and Wellbeing'
+      parent: Verses of Auspiciousness
+    075c768ac4ae4aeeada0896d24a3e7ce:
+      title: Verses of the Eight Noble Auspicious Ones
+      parent: Verses of Auspiciousness
+created_at: '2022-03-01T02:52:02.802078'
+last_modified_at: '2022-03-01T02:52:02.802080'
